@@ -1,2 +1,2 @@
-# quix-rootkit
-Windows 10 KM Rootkit
+# Quix rootkit
+Robust KM rootkit, free to use.
